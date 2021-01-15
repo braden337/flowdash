@@ -1,0 +1,15 @@
+{
+  "name": "flowdash",
+  "version": "0.1.0",
+  "description": "Some utility tools",
+  "main": "flowdash.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braden337/flowdash.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/braden337/flowdash/issues"
+  },
+  "homepage": "https://github.com/braden337/flowdash#readme"
+}
