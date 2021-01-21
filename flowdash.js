@@ -1,3 +1,4 @@
 const Storable = require("./Storable");
+const pluralize = require("./pluralize");
 
-module.exports = { Storable };
+module.exports = { Storable, pluralize };

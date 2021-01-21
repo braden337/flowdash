@@ -1,6 +1,6 @@
 {
   "name": "flowdash",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Some utility tools",
   "main": "flowdash.js",
   "repository": {
